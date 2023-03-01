@@ -1,0 +1,7 @@
+:root{
+    --color-light: rgb(196, 220, 235);
+}
+
+.styledIcon{
+    color: var(--color-light);
+}
