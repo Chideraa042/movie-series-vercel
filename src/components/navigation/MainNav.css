@@ -1,5 +1,6 @@
 :root{
     --color-light: rgb(196, 220, 235);
+    --color-lighter: rgb(187, 198, 204);
 }
 
 .styledIcon{
